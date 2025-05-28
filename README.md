@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-Check out the [live demo of the project](https://fullstack-ai-nextjs14.vercel.app).
+Check out the [live demo of the project](https://fullstack-nextjs-journal-ai-app.vercel.app).
 
 ![overview image](./public/overview.jpg)
 
