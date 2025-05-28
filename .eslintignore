@@ -1,0 +1,21 @@
+# Generated Prisma files
+**/generated/**/*
+**/prisma/generated/**/*
+**/prisma/runtime/**/*
+**/prisma/wasm.js
+**/prisma/react-native.js
+
+# Build output
+.next
+out
+build
+dist
+
+# Dependencies
+node_modules
+
+# Generated files
+*.js
+*.jsx
+*.ts
+*.tsx 
